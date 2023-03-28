@@ -20,7 +20,8 @@ Paso 1
 ```
 
 Paso 2
-Nota: este paso es solo si estan en terminal.
+
+**Nota:** este paso es solo si estan en terminal.
 
 ```bash
 > cd PokemonApp
