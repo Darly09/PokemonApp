@@ -1,7 +1,39 @@
-# Vue 3 + Vite
+# PokemonApp Vue 3 + Vite
 
-This template should help get you started developing with Vue 3 in Vite. The template uses Vue 3 `<script setup>` SFCs, check out the [script setup docs](https://v3.vuejs.org/api/sfc-script-setup.html#sfc-script-setup) to learn more.
+Proyecto de pokemon con javascript usando vite como generador de proyectos y vue3 como Framework.
 
-## Recommended IDE Setup
+## 🛠️ Configuracion
 
-- [VS Code](https://code.visualstudio.com/) + [Volar](https://marketplace.visualstudio.com/items?itemName=Vue.volar) (and disable Vetur) + [TypeScript Vue Plugin (Volar)](https://marketplace.visualstudio.com/items?itemName=Vue.vscode-typescript-vue-plugin).
+### Pre-requisitos
+
+- Nodejs
+- Npm
+- Pnpm
+- Git
+
+Paso 1
+
+- Clonar el repositorio con git bash
+
+```bash
+> git clone https://github.com/Darly09/PokemonApp.git
+```
+
+Paso 2
+Nota: este paso es solo si estan en terminal.
+
+```bash
+> cd PokemonApp
+```
+
+Paso 3
+
+```bash
+> pnpm install
+```
+
+Paso 4
+
+```bash
+> pnpm dev
+```
